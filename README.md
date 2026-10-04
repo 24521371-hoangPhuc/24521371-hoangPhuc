@@ -44,7 +44,6 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Dàn icon công nghệ từ skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,git,postman,react,ts" alt="Tech Stack" />
 </div>
 
@@ -56,13 +55,16 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Thống kê tài khoản GitHub & Top ngôn ngữ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangPhuc6&show_icons=true&theme=tokyonight&hide_border=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangPhuc6&layout=compact&theme=tokyonight&hide_border=true" height="155" />
+  <!-- Thống kê tài khoản GitHub (Đã bật include_all_commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangPhuc6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="155" />
+  
+  <!-- Top ngôn ngữ (Ẩn bớt JS, CSS, HTML để tôn vinh Java Backend) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangPhuc6&layout=compact&theme=tokyonight&hide_border=true&hide=javascript,css,html&cache_seconds=1800" height="155" />
+  
   <br/><br/>
   
-  <!-- Chuỗi streak đóng góp liên tục -->
-  <img src="https://streak-stats.demolab.com?user=hoangPhuc6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Chuỗi streak đóng góp liên tục (Đã gắn múi giờ Việt Nam Asia/Ho_Chi_Minh) -->
+  <img src="https://streak-stats.demolab.com?user=hoangPhuc6&theme=tokyonight&hide_border=true&timezone=Asia/Ho_Chi_Minh" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -84,11 +86,10 @@
 
 <div align="center">
 
-  <!-- Thẻ Pin Project 1 -->
+  <!-- Nhớ thay project-name-1 và project-name-2 thành tên repository thật của bạn -->
   <a href="https://github.com/hoangPhuc6/project-name-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangPhuc6&repo=project-name-1&theme=tokyonight&hide_border=true" />
   </a>
-  <!-- Thẻ Pin Project 2 -->
   <a href="https://github.com/hoangPhuc6/project-name-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangPhuc6&repo=project-name-2&theme=tokyonight&hide_border=true" />
   </a>
@@ -97,7 +98,6 @@
 
 <br/>
 
-<!-- Bảng chi tiết danh sách dự án nổi bật -->
 | Project | Tech Stack | Description | Source |
 | :--- | :--- | :--- | :---: |
 | **Project 01** | `Java` `Spring Boot` `PostgreSQL` `Redis` | Hệ thống backend quản lý hóa đơn/thanh toán, xác thực JWT, caching dữ liệu. | [View Repo](https://github.com/hoangPhuc6) |
